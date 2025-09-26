@@ -1,4 +1,4 @@
-# Racing CPP| (j'espère en faire un vrai moteur bientôt...)
+# Racing CPP| 
 
 
 ## Configuration :
